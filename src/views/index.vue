@@ -1,13 +1,10 @@
 <template>
   <div>首页</div>
+  <router-link to="todoList">todoList</router-link>
 </template>
 
 <script>
-export default {
-
-}
+export default {};
 </script>
 
-<style>
-
-</style>
+<style></style>
