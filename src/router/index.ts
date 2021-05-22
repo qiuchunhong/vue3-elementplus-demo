@@ -16,6 +16,12 @@ const routes: Array<RouteRecordRaw> = [
     name: "404",
     component:  () => import( "../views/404.vue"),
   },
+  // todoList案例
+  {
+    path: "/todoList",
+    name: "todoList",
+    component:  () => import( "../views/todoList/index.vue"),
+  },
 ];
 
 const router = createRouter({
