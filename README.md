@@ -27,3 +27,8 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+### 备注
+2021-5-14创建的一个vue3 + elementplus + ts 的项目
+
